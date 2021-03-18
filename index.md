@@ -1,3 +1,20 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. I plan to talk about the technologies I am exploring at the moment.
+**IoT**
+Starting with basics and working on Arduino and Raspberry Pi boards has been fun and thrilling, real engineering! Still so much to explore here, connecting to cloud being the top one.
+The course I chose is by Manipal's Jigsaw academy- so far so good...
+
+**AI-ML**
+Every engineer is hearing it, talking about it, here I starting doing it!!!
+Starting with Python language, Jupyter notebook, python libraries and moving to basics of statistics has been interesting.
+Now going through different machine learning alogoriths, their examples and projects is little hectic but then what isn't?
+For this the course chosen is Simplilearn's AI-ML certification
+
+**Exploring source controls**
+git-github, bitbucket, svn - explroing them all and finding out the truth about sw uses - not functionality or implementation but higher acceptance!
+
+**Working out loud for teams**
+Joined the WOL circle with our project team, and going through the exercises with the goal to be lifelong curious at 1 hour per week for next 8 weeks.
+
+Let's hope this time around I reach the finish line, fingers crosses🤞
